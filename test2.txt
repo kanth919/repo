@@ -1,2 +1,6 @@
  this the test file 2 > test2.txt
+2
+3
+4
+111
 
