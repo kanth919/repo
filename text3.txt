@@ -1,1 +1,3 @@
  this is the sample file 3
+
+adding text in dev to check merging after add
